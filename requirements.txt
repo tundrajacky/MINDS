@@ -1,0 +1,1 @@
+Packages needed: numpy, pandas, json, requests, BeautifulSoup, tqdm, spacy, spacy_langdetect, spacy.language, textblob, nltk, plotly.express
